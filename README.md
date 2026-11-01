@@ -1,3 +1,5 @@
+> Distribution moved to [AhmetOzyilmaz/releases](https://github.com/AhmetOzyilmaz/releases/releases). This redundant repository is archived; no new packages will be published here.
+
 # Yaploo downloads
 
 Official Windows and macOS installers and checksums. Application source remains private.
